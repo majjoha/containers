@@ -1,8 +1,7 @@
 # `latex-pandoc`
 ![Docker Pulls](https://img.shields.io/docker/pulls/majjoha/latex-pandoc.svg)
 
-This container provides a writing environment that I often use for various
-documents.
+This container provides a writing environment that I often use for documents.
 
 The container includes:
 - [LaTeX](https://www.latex-project.org)

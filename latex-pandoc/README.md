@@ -1,5 +1,5 @@
 # `latex-pandoc`
-![Docker Pulls](https://img.shields.io/docker/pulls/majjoha/latex-pandoc.svg)
+[![Docker Pulls](https://img.shields.io/docker/pulls/majjoha/latex-pandoc.svg)](https://hub.docker.com/r/majjoha/latex-pandoc)
 
 This container provides a writing environment that I often use for documents.
 

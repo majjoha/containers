@@ -9,6 +9,7 @@ RUN apk update && \
     biber \
     make \
     texlive-full \
+    texmf-dist-fontsextra \
     wget && \
     wget https://github.com/jgm/pandoc/releases/download/2.7.2/pandoc-2.7.2-linux.tar.gz -O pandoc.tar.gz  && \
     tar xvzf pandoc.tar.gz --strip-components 1 -C /usr/local/ && \

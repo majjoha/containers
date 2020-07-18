@@ -15,4 +15,4 @@ docker build -t majjoha/latex-pandoc .
 ```
 
 ## License
-See [LICENSE](https://github.com/majjoha/containers/blob/master/LICENSE).
+See [LICENSE](https://github.com/majjoha/containers/blob/main/LICENSE).
